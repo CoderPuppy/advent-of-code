@@ -1,0 +1,397 @@
+bid: 142, low: 67, high: 73, rest: 
+bot 107 <- 67
+bot 203 <- 73
+bid: 107, low: 67, high: 71, rest: 
+bot 155 <- 67
+bot 203 <- 71
+bid: 155, low: 17, high: 67, rest: 
+bot 138 <- 17
+bot 1 <- 67
+bid: 203, low: 71, high: 73, rest: 
+bot 1 <- 71
+bot 4 <- 73
+bid: 1, low: 67, high: 71, rest: 
+bot 17 <- 67
+bot 4 <- 71
+bid: 4, low: 71, high: 73, rest: 
+bot 91 <- 71
+bot 190 <- 73
+bid: 138, low: 17, high: 23, rest: 
+bot 149 <- 17
+bot 17 <- 23
+bid: 17, low: 23, high: 67, rest: 
+bot 136 <- 23
+bot 91 <- 67
+bid: 149, low: 7, high: 17, rest: 
+bot 40 <- 7
+bot 136 <- 17
+bid: 91, low: 67, high: 71, rest: 
+bot 64 <- 67
+bot 190 <- 71
+bid: 136, low: 17, high: 23, rest: 
+bot 6 <- 17
+bot 64 <- 23
+bid: 40, low: 7, high: 59, rest: 
+bot 48 <- 7
+bot 6 <- 59
+bid: 64, low: 23, high: 67, rest: 
+bot 26 <- 23
+bot 53 <- 67
+bid: 48, low: 7, high: 43, rest: 
+bot 156 <- 7
+bot 10 <- 43
+bid: 6, low: 17, high: 59, rest: 
+bot 10 <- 17
+bot 26 <- 59
+bid: 190, low: 71, high: 73, rest: 
+bot 53 <- 71
+bot 76 <- 73
+bid: 10, low: 17, high: 43, rest: 
+bot 45 <- 17
+bot 104 <- 43
+bid: 53, low: 67, high: 71, rest: 
+bot 35 <- 67
+bot 76 <- 71
+bid: 76, low: 71, high: 73, rest: 
+bot 20 <- 71
+bot 198 <- 73
+bid: 156, low: 7, high: 31, rest: 
+bot 197 <- 7
+bot 45 <- 31
+bid: 26, low: 23, high: 59, rest: 
+bot 104 <- 23
+bot 35 <- 59
+bid: 197, low: 7, high: 47, rest: 
+bot 111 <- 7
+bot 24 <- 47
+bid: 104, low: 23, high: 43, rest: 
+bot 176 <- 23
+bot 121 <- 43
+bid: 35, low: 59, high: 67, rest: 
+bot 121 <- 59
+bot 20 <- 67
+bid: 45, low: 17, high: 31, rest: 
+bot 24 <- 17
+bot 176 <- 31
+bid: 24, low: 17, high: 47, rest: 
+bot 5 <- 17
+bot 12 <- 47
+bid: 121, low: 43, high: 59, rest: 
+bot 63 <- 43
+bot 62 <- 59
+bid: 111, low: 7, high: 37, rest: 
+bot 73 <- 7
+bot 5 <- 37
+bid: 176, low: 23, high: 31, rest: 
+bot 12 <- 23
+bot 63 <- 31
+bid: 73, low: 7, high: 13, rest: 
+bot 204 <- 7
+bot 36 <- 13
+bid: 20, low: 67, high: 71, rest: 
+bot 62 <- 67
+bot 198 <- 71
+bid: 12, low: 23, high: 47, rest: 
+bot 141 <- 23
+bot 101 <- 47
+bid: 198, low: 71, high: 73, rest: 
+bot 146 <- 71
+bot 183 <- 73
+bid: 204, low: 7, high: 41, rest: 
+bot 74 <- 7
+bot 22 <- 41
+bid: 5, low: 17, high: 37, rest: 
+bot 36 <- 17
+bot 141 <- 37
+bid: 62, low: 59, high: 67, rest: 
+bot 41 <- 59
+bot 146 <- 67
+bid: 36, low: 13, high: 17, rest: 
+bot 22 <- 13
+bot 135 <- 17
+bid: 63, low: 31, high: 43, rest: 
+bot 101 <- 31
+bot 41 <- 43
+bid: 146, low: 67, high: 71, rest: 
+bot 154 <- 67
+bot 183 <- 71
+bid: 41, low: 43, high: 59, rest: 
+bot 105 <- 43
+bot 154 <- 59
+bid: 141, low: 23, high: 37, rest: 
+bot 135 <- 23
+bot 175 <- 37
+bid: 74, low: 3, high: 7, rest: 
+bot 128 <- 3
+bot 184 <- 7
+bid: 22, low: 13, high: 41, rest: 
+bot 184 <- 13
+bot 185 <- 41
+bid: 101, low: 31, high: 47, rest: 
+bot 175 <- 31
+bot 105 <- 47
+bid: 184, low: 7, high: 13, rest: 
+bot 38 <- 7
+bot 95 <- 13
+bid: 183, low: 71, high: 73, rest: 
+bot 179 <- 71
+bot 134 <- 73
+bid: 128, low: 3, high: 5, rest: 
+bot 61 <- 3
+bot 38 <- 5
+bid: 61, low: 3, high: 19, rest: 
+bot 148 <- 3
+bot 163 <- 19
+bid: 105, low: 43, high: 47, rest: 
+bot 199 <- 43
+bot 145 <- 47
+bid: 175, low: 31, high: 37, rest: 
+bot 29 <- 31
+bot 199 <- 37
+bid: 154, low: 59, high: 67, rest: 
+bot 145 <- 59
+bot 179 <- 67
+bid: 148, low: 3, high: 11, rest: 
+bot 170 <- 3
+bot 90 <- 11
+bid: 135, low: 17, high: 23, rest: 
+bot 185 <- 17
+bot 29 <- 23
+bid: 185, low: 17, high: 41, rest: 
+bot 95 <- 17
+bot 31 <- 41
+bid: 95, low: 13, high: 17, rest: 
+bot 159 <- 13
+bot 14 <- 17
+bid: 38, low: 5, high: 7, rest: 
+bot 163 <- 5
+bot 159 <- 7
+bid: 163, low: 5, high: 19, rest: 
+bot 90 <- 5
+bot 8 <- 19
+bid: 29, low: 23, high: 31, rest: 
+bot 31 <- 23
+bot 192 <- 31
+bid: 170, low: 2, high: 3, rest: 
+bot 188 <- 2
+bot 70 <- 3
+bid: 199, low: 37, high: 43, rest: 
+bot 192 <- 37
+bot 44 <- 43
+bid: 179, low: 67, high: 71, rest: 
+bot 126 <- 67
+bot 134 <- 71
+bid: 145, low: 47, high: 59, rest: 
+bot 44 <- 47
+bot 126 <- 59
+bid: 31, low: 23, high: 41, rest: 
+bot 14 <- 23
+bot 57 <- 41
+bid: 90, low: 5, high: 11, rest: 
+bot 70 <- 5
+bot 167 <- 11
+bid: 192, low: 31, high: 37, rest: 
+bot 57 <- 31
+bot 191 <- 37
+bid: 126, low: 59, high: 67, rest: 
+bot 47 <- 59
+bot 124 <- 67
+bid: 159, low: 7, high: 13, rest: 
+bot 8 <- 7
+bot 28 <- 13
+bid: 188, low: 2, high: 53, rest: 
+bot 187 <- 2
+bot 132 <- 53
+bid: 8, low: 7, high: 19, rest: 
+bot 167 <- 7
+bot 21 <- 19
+bid: 44, low: 43, high: 47, rest: 
+bot 191 <- 43
+bot 47 <- 47
+bid: 57, low: 31, high: 41, rest: 
+bot 39 <- 31
+bot 189 <- 41
+bid: 134, low: 71, high: 73, rest: 
+bot 124 <- 71
+bot 81 <- 73
+bid: 70, low: 3, high: 5, rest: 
+bot 132 <- 3
+bot 205 <- 5
+bid: 167, low: 7, high: 11, rest: 
+bot 205 <- 7
+bot 122 <- 11
+bid: 191, low: 37, high: 43, rest: 
+bot 189 <- 37
+bot 196 <- 43
+bid: 14, low: 17, high: 23, rest: 
+bot 28 <- 17
+bot 39 <- 23
+bid: 187, low: 2, high: 61, rest: 
+bot 18 <- 2
+bot 181 <- 61
+bid: 189, low: 37, high: 41, rest: 
+bot 112 <- 37
+bot 139 <- 41
+bid: 47, low: 47, high: 59, rest: 
+bot 196 <- 47
+bot 19 <- 59
+bid: 124, low: 67, high: 71, rest: 
+bot 19 <- 67
+bot 81 <- 71
+bid: 205, low: 5, high: 7, rest: 
+bot 72 <- 5
+bot 120 <- 7
+bid: 196, low: 43, high: 47, rest: 
+bot 139 <- 43
+bot 43 <- 47
+bid: 139, low: 41, high: 43, rest: 
+bot 66 <- 41
+bot 161 <- 43
+bid: 81, low: 71, high: 73, rest: 
+bot 89 <- 71
+bot 68 <- 73
+bid: 18, low: 2, high: 29, rest: 
+output 0 <- 2
+bot 202 <- 29
+bid: 132, low: 3, high: 53, rest: 
+bot 181 <- 3
+bot 72 <- 53
+bid: 39, low: 23, high: 31, rest: 
+bot 206 <- 23
+bot 112 <- 31
+bid: 112, low: 31, high: 37, rest: 
+bot 25 <- 31
+bot 66 <- 37
+bid: 181, low: 3, high: 61, rest: 
+bot 202 <- 3
+bot 3 <- 61
+bid: 202, low: 3, high: 29, rest: 
+output 19 <- 3
+bot 140 <- 29
+bid: 19, low: 59, high: 67, rest: 
+bot 43 <- 59
+bot 89 <- 67
+bid: 28, low: 13, high: 17, rest: 
+bot 21 <- 13
+bot 206 <- 17
+bid: 43, low: 47, high: 59, rest: 
+bot 161 <- 47
+bot 102 <- 59
+bid: 66, low: 37, high: 41, rest: 
+bot 207 <- 37
+bot 82 <- 41
+bid: 161, low: 43, high: 47, rest: 
+bot 82 <- 43
+bot 86 <- 47
+bid: 89, low: 67, high: 71, rest: 
+bot 102 <- 67
+bot 68 <- 71
+bid: 72, low: 5, high: 53, rest: 
+bot 3 <- 5
+bot 46 <- 53
+bid: 21, low: 13, high: 19, rest: 
+bot 122 <- 13
+bot 209 <- 19
+bid: 102, low: 59, high: 67, rest: 
+bot 86 <- 59
+bot 110 <- 67
+bid: 86, low: 47, high: 59, rest: 
+bot 171 <- 47
+bot 152 <- 59
+bid: 3, low: 5, high: 61, rest: 
+bot 140 <- 5
+bot 186 <- 61
+bid: 122, low: 11, high: 13, rest: 
+bot 120 <- 11
+bot 119 <- 13
+bid: 206, low: 17, high: 23, rest: 
+bot 209 <- 17
+bot 25 <- 23
+bid: 140, low: 5, high: 29, rest: 
+output 17 <- 5
+bot 96 <- 29
+bid: 120, low: 7, high: 11, rest: 
+bot 46 <- 7
+bot 97 <- 11
+bid: 82, low: 41, high: 43, rest: 
+bot 113 <- 41
+bot 171 <- 43
+bid: 68, low: 71, high: 73, rest: 
+bot 110 <- 71
+bot 129 <- 73
+bid: 110, low: 67, high: 71, rest: 
+bot 152 <- 67
+bot 129 <- 71
+bid: 129, low: 71, high: 73, rest: 
+bot 71 <- 71
+bot 78 <- 73
+bid: 171, low: 43, high: 47, rest: 
+bot 34 <- 43
+bot 177 <- 47
+bid: 209, low: 17, high: 19, rest: 
+bot 119 <- 17
+bot 106 <- 19
+bid: 46, low: 7, high: 53, rest: 
+bot 186 <- 7
+bot 133 <- 53
+bid: 25, low: 23, high: 31, rest: 
+bot 106 <- 23
+bot 207 <- 31
+bid: 152, low: 59, high: 67, rest: 
+bot 177 <- 59
+bot 71 <- 67
+bid: 177, low: 47, high: 59, rest: 
+bot 11 <- 47
+bot 100 <- 59
+bid: 71, low: 67, high: 71, rest: 
+bot 100 <- 67
+bot 78 <- 71
+bid: 106, low: 19, high: 23, rest: 
+bot 178 <- 19
+bot 99 <- 23
+bid: 119, low: 13, high: 17, rest: 
+bot 97 <- 13
+bot 178 <- 17
+bid: 100, low: 59, high: 67, rest: 
+bot 143 <- 59
+bot 131 <- 67
+bid: 186, low: 7, high: 61, rest: 
+bot 96 <- 7
+bot 33 <- 61
+bid: 97, low: 11, high: 13, rest: 
+bot 133 <- 11
+bot 60 <- 13
+bid: 178, low: 17, high: 19, rest: 
+bot 60 <- 17
+bot 13 <- 19
+bid: 207, low: 31, high: 37, rest: 
+bot 99 <- 31
+bot 113 <- 37
+bid: 99, low: 23, high: 31, rest: 
+bot 13 <- 23
+bot 49 <- 31
+bid: 78, low: 71, high: 73, rest: 
+bot 131 <- 71
+bot 42 <- 73
+bid: 113, low: 37, high: 41, rest: 
+bot 49 <- 37
+bot 34 <- 41
+bid: 49, low: 31, high: 37, rest: 
+bot 173 <- 31
+bot 88 <- 37
+bid: 96, low: 7, high: 29, rest: 
+output 12 <- 7
+bot 51 <- 29
+bid: 133, low: 11, high: 53, rest: 
+bot 33 <- 11
+bot 162 <- 53
+bid: 13, low: 19, high: 23, rest: 
+bot 166 <- 19
+bot 173 <- 23
+bid: 60, low: 13, high: 17, rest: 
+bot 162 <- 13
+bot 166 <- 17
+bid: 34, low: 41, high: 43, rest: 
+bot 88 <- 41
+bot 11 <- 43
+bid: 33, low: 11, high: 6
