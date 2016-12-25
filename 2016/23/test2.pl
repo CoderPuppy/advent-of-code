@@ -152,7 +152,7 @@ sub get {
 }
 
 PARTS: while() {
-	say "go $i $a $b $c $d";
+	# say "go $i $a $b $c $d";
 	my $fh;
 	open($fh, ">", "test2.asm") or die "huh";
 	select $fh;
@@ -162,7 +162,7 @@ PARTS: while() {
 	system "nasm -f elf64 test2.asm";
 	system "gcc test2.o -o test2";
 	open(my $out, "./test2 |") or die "huh";
-	while(<$out>) {
+	LINES: while(<$out>) {
 		if(/^st (-?\d*) (-?\d*) (-?\d*) (-?\d*)$/) {
 			$a = $1 + 0;
 			$b = $2 + 0;
@@ -171,7 +171,7 @@ PARTS: while() {
 		} elsif(/^extern (\d*)$/) {
 			$i = $1 + 0;
 			my @instr = @{$instrs[$i]};
-			say "ext $i (@instr) $a $b $c $d";
+			# say "ext $i (@instr) $a $b $c $d";
 			if($instr[0] eq "tgl") {
 				my $ti = $i + get($instr[1]);
 				my $tin = $instrs[$ti];
@@ -192,18 +192,20 @@ PARTS: while() {
 				}
 				$i++;
 			} elsif($instr[0] eq "jnz") {
-				say "jnz ${\(get($instr[1]))} ${\(get($instr[2]))}";
+				# say "jnz ${\(get($instr[1]))} ${\(get($instr[2]))}";
 				if(get($instr[1]) != 0) {
 					$i += get($instr[2]);
 				}
 			} else {
 				die "wat: @instr";
 			}
+			close $out;
 			next PARTS;
 		} else {
 			die "wat: $_";
 		}
 	}
+	close $out;
 	last;
 }
-	say "done $a $b $c $d";
+say "done $a $b $c $d";
