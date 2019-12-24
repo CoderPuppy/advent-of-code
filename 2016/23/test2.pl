@@ -1,6 +1,9 @@
 use feature 'say';
 use Data::Dumper qw(Dumper);
 use IPC::Open3 qw(open3);
+use enum qw(
+	:I=0 inc dec tgl jnz cpy
+);
 
 my @instrs;
 while(<>) {

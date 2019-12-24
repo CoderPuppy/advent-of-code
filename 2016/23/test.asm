@@ -3,6 +3,7 @@ section .data
 	; format: db "hello world", 10, 0
 
 section .text
+bits 64
 	global main
 	extern printf
 
